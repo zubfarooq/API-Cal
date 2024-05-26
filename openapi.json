@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "url": "https://examples.apimatic.io/apps/calculator",
+      "url": "https://zubfarooq.github.io/API-Cal/",
       "description": "This environment connect to the LIVE calculator API",
       "variables": {}
     }
